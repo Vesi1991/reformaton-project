@@ -71,6 +71,16 @@ section img {
   background-color: transparent;
 }
 
+.btn-bild7 {
+  bottom: 235px; /* Beispielwert – je nach Button im Bild anpassen */
+  background-color: transparent;
+}
+
+.btn-bild9 {
+  bottom: 160px; /* Beispiel – je nach Position des Buttons im Bild */
+  background-color: transparent;
+}
+
 #startbild {
   position: relative;
 }
