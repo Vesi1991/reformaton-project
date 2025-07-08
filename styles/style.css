@@ -84,3 +84,26 @@ section img {
 #startbild {
   position: relative;
 }
+
+.image-social-section {
+  position: relative;
+}
+
+.social-icons {
+  position: absolute;
+  bottom: 10px;
+  right: 30px;
+  z-index: 10;
+  display: flex;
+  gap: 20px;
+}
+
+.social-icons a {
+  color: #e5bb76; /* Goldton passend zur Seite */
+  font-size: 28px;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #ffd700;
+}
