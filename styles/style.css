@@ -61,14 +61,14 @@ section img {
 
 .overlay-button {
   position: absolute;
-  bottom: 60px; /* Je nach Button-Position anpassen */
+  bottom: 160px; /* Je nach Button-Position anpassen */
   left: 50%;
   transform: translateX(-50%);
-  width: 300px; /* Breite des echten Buttons im Bild */
-  height: 50px; /* Höhe des Buttons im Bild */
+  width: 210px; /* Breite des echten Buttons im Bild */
+  height: 40px; /* Höhe des Buttons im Bild */
   z-index: 9999; /* Ganz weit oben */
   cursor: pointer;
-  background-color: rgba(255, 0, 0, 0.2);
+  background-color: transparent;
 }
 
 #startbild {
